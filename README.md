@@ -2,7 +2,7 @@
 
 A minimal LoRA finetuning code for [hmellor/tiny-random-LlamaForCausalLM](https://huggingface.co/hmellor/tiny-random-LlamaForCausalLM). This LoRA adapter is only useful for smoke testing deployments.
 
-You can find the LoRA adapter on HuggingFace at [syaffers/tiny-random-llama-lora](https://huggingface.co/syaffers/syaffers/tiny-random-llama-lora).
+You can find the LoRA adapter on HuggingFace at [syaffers/tiny-random-llama-lora](https://huggingface.co/syaffers/tiny-random-llama-lora).
 
 ## Overview
 
