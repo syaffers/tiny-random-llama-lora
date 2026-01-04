@@ -48,4 +48,4 @@ The LoRA configuration uses:
 
 ## License
 
-MIT
+[MIT](LICENSE)
